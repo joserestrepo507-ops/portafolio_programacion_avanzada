@@ -47,7 +47,7 @@ PROYECTOS = [
         "titulo": "Detector de anomalías",
         "categoria": "Fundamentos",
         "descripcion": "Detecta valores atípicos en un conjunto de datos y compara la complejidad de los algoritmos usados (lógica, Big-O y NumPy).",
-        "imagen": "OIG5.jpg",
+        "imagen": "detectoranomalias.png",
         "url": "https://detectoranomalias-nqhdajsavrdjkkymnjblsj.streamlit.app",
     },
     {
