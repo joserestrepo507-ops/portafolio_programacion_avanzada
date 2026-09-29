@@ -61,7 +61,7 @@ PROYECTOS = [
         "titulo": "Nivel de cauce en Guarne",
         "categoria": "Series de tiempo",
         "descripcion": "Monitorea el nivel del cauce en la quebrada La Mosca, estación 23, cerca del aeropuerto José María Córdova.",
-        "imagen": "data_analisis.png",
+        "imagen": "quebradalamosca.jpg",
         "url": "https://nivelcornare-2u26pudtubo8mouvxd5qmb.streamlit.app",
     },
     {
