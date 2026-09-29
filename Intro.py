@@ -40,7 +40,7 @@ PROYECTOS = [
         "titulo": "Descenso de gradiente interactivo",
         "categoria": "Fundamentos",
         "descripcion": "Sigue paso a paso cómo el descenso de gradiente busca el mínimo de una función.",
-        "imagen": "txt_to_audio.png",
+        "imagen": "gradiente.png",
         "url": "https://compuavanzadagradiente-gxnut9hj5byu8wdjrwcgds.streamlit.app",
     },
     {
