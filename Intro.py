@@ -21,7 +21,7 @@ CONTACTO = {
 }
 
 SOBRE_EL_CURSO = (
-    "El principal interés del módulo implementar estrategias enfocadas a la cuarta revolución industrial, "
+    "El principal interés del módulo es implementar estrategias enfocadas a la cuarta revolución industrial, "
     "específicamente al auge de la análitica de datos y la inteligencia artificial, permitiéndole al futuro ingeniero de software direccionar actividades que permitan "
     "tomar decisiones en cadenas productivas basadas en el procesamiento de datos con la finalidad de optimizar procesos y disminuir costos."
 )
