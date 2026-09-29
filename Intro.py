@@ -219,7 +219,7 @@ st.markdown(limpiar(ESTILOS), unsafe_allow_html=True)
 total = len(PROYECTOS)
 collage = "".join(
     f'<img src="{imagen_base64(n, 640)}" alt="" loading="lazy">'
-    for n in ("python.jpg", "robot.jpg", "cyberpunk2077.jpg")
+    for n in ("computadora-y-lentes.webp", "robot.jpg", "cyberpunk2077.jpg")
 )
 
 st.markdown(
