@@ -54,7 +54,7 @@ PROYECTOS = [
         "titulo": "Datos: preparación y estructura",
         "categoria": "Fundamentos",
         "descripcion": "Explora cómo limpiar, estructurar y preparar datos antes de construir un modelo.",
-        "imagen": "OIG8.jpg",
+        "imagen": "datosestructura.webp",
         "url": "https://appdedatos-zjqbt9mw7kcjyyzvebipmu.streamlit.app",
     },
     {
