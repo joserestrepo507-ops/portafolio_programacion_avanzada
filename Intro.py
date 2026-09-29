@@ -232,8 +232,8 @@ st.markdown(
 </nav>
 <header class="pf-hero" id="inicio">
 <div>
-<h1 class="pf-title">{NUMEROS.get(total, total)} aplicaciones de inteligencia artificial que puedes probar ahora.</h1>
-<p class="pf-lead">Portafolio de la materia: fundamentos, regresión, clasificación y series de tiempo. Cada proyecto está publicado en línea y funciona desde el navegador.</p>
+<h1 class="pf-title">{NUMEROS.get(total, total)} aplicaciones realizadas en clase.</h1>
+<p class="pf-lead">Portafolio Programación Avanzada. Cada proyecto está publicado en línea y funciona desde el navegador.</p>
 <p class="pf-who">{e(NOMBRE)}, {e(PERFIL[0].lower() + PERFIL[1:])}</p>
 <div class="pf-cta">
 <a class="pf-btn pf-btn-primary" href="#proyectos">Ver proyectos</a>
