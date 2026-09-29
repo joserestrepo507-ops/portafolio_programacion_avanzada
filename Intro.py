@@ -92,17 +92,17 @@ with col4:
  url = "https://regresionguiado-z2lkxwmmtvwtbfncm8urry.streamlit.app"
  st.write(f"RAG: [Enlace]({url})")
 
- st.subheader("")
+ st.subheader("¿Lloverá mañana? Regresión Logística interactiva")
  image = Image.open('OIG4.jpg')
  st.image(image, width=200)
  st.write("En la siguiente enlace veremos la capacidad de análisis en Imágenes.") 
- url = ""
+ url = "https://regresionlogistica-k7raw4gtuuhn7ecddww5hj.streamlit.app"
  st.write(f"Vision: [Enlace]({url})")
  
- st.subheader("Predictor de calidad del aire CORNARE (MARCO)")
+ st.subheader("Explora KNN con datos de suelos de AGROSAVIA")
  image = Image.open('OIG6.jpg')
  st.image(image, width=200)
  st.write("En la siguiente enlace veremos la capacidad de interacción con el mundo físico.") 
- url = ""
+ url = "https://knnsuelos-eeiet48jys5ybjnbdxucz4.streamlit.app"
  st.write(f"Vision: [Enlace]({url})")
 
