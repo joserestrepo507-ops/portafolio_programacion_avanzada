@@ -33,7 +33,7 @@ PROYECTOS = [
         "titulo": "¿Qué fruta es más parecida?",
         "categoria": "Clasificación",
         "descripcion": "Compara una fruta con las más parecidas según sus características, usando un modelo entrenado.",
-        "imagen": "Pera.png",
+        "imagen": "Peras.png",
         "url": "https://classfruta-btgmcsws8r7zumh7qhwtuc.streamlit.app",
     },
     {
