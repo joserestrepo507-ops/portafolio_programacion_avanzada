@@ -21,9 +21,9 @@ CONTACTO = {
 }
 
 SOBRE_EL_CURSO = (
-    "La inteligencia artificial permite mejorar la toma de decisiones con el uso de datos, "
-    "automatizar tareas rutinarias y proporcionar análisis avanzados en tiempo real, lo que "
-    "resulta en una mayor eficiencia y precisión en diversos campos."
+    "El principal interés del módulo implementar estrategias enfocadas a la cuarta revolución industrial, "
+    "específicamente al auge de la análitica de datos y la inteligencia artificial, permitiéndole al futuro ingeniero de software direccionar actividades que permitan "
+    "tomar decisiones en cadenas productivas basadas en el procesamiento de datos con la finalidad de optimizar procesos y disminuir costos."
 )
 
 CATEGORIAS = ["Todos", "Fundamentos", "Regresión", "Clasificación", "Series de tiempo", "Audio y texto"]
