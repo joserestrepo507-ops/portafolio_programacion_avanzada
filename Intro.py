@@ -75,7 +75,7 @@ PROYECTOS = [
         "titulo": "Regresión: conceptos clave",
         "categoria": "Regresión",
         "descripcion": "Repasa de forma interactiva los conceptos clave de un modelo de regresión.",
-        "imagen": "Chat_pdf.png",
+        "imagen": "Modelo-de-regresión.jpg",
         "url": "https://regresionconceptos-rheeg8nqvdq95r4ufs7n85.streamlit.app",
     },
     {
