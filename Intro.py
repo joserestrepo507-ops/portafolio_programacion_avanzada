@@ -68,7 +68,7 @@ PROYECTOS = [
         "titulo": "Transcriptor de audio y video",
         "categoria": "Audio y texto",
         "descripcion": "Transcribe archivos de audio y video a texto.",
-        "imagen": "OIG3.jpg",
+        "imagen": "pendiente.png",
         "url": "https://transcript-whisper.streamlit.app/",
     },
     {
