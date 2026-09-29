@@ -9,15 +9,15 @@ from PIL import Image
 # ──────────────────────────────────────────────────────────────
 # Datos editables
 # ──────────────────────────────────────────────────────────────
-NOMBRE = "Daniel Restrepo"
-PERFIL = "Estudiante de ingeniería en la Institución Universitaria Pascual Bravo, Medellín"
+NOMBRE = "José Daniel Restrepo Ramírez"
+PERFIL = "Estudiante de ingeniería de software en la Institución Universitaria Pascual Bravo, Medellín"
 SITIO_EJERCICIOS = "https://sites.google.com/view/aplicacionesdeia/inicio"
 
 # Deja vacío lo que no quieras mostrar en el pie de página.
 CONTACTO = {
-    "GitHub": "",
+    "GitHub": "joserestrepo507-ops",
     "LinkedIn": "",
-    "Correo": "",  # ejemplo: "tucorreo@dominio.com"
+    "Correo": "jose.restrepo507@pascualbravo.edu.co", 
 }
 
 SOBRE_EL_CURSO = (
