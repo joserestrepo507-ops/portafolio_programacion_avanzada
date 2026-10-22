@@ -113,6 +113,13 @@ PROYECTOS = [
         "imagen": "calidadsuelo.png",
         "url": "https://knnsuelos-eeiet48jys5ybjnbdxucz4.streamlit.app",
     },
+    {
+        "titulo": "Modelo de consumo energético",
+        "categoria": "Fundamentos",
+        "descripcion": "Predice el consumo a partir de variables de entrada con un modelo de aprendizaje automático.",
+        "imagen": "llovera.jpg",
+        "url": "https://appmodeloconsumoml15.streamlit.app",
+    },
 ]
 
 BASE = Path(__file__).parent
