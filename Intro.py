@@ -115,7 +115,7 @@ PROYECTOS = [
     },
     {
         "titulo": "Modelo de consumo energético",
-        "categoria": "Fundamentos",
+        "categoria": "Regresión",
         "descripcion": "Predice el consumo a partir de variables de entrada con un modelo de aprendizaje automático.",
         "imagen": "consumo_energetico.webp",
         "url": "https://appmodeloconsumoml15.streamlit.app",
