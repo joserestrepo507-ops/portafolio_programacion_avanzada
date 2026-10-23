@@ -120,6 +120,13 @@ PROYECTOS = [
         "imagen": "llovera.jpg",
         "url": "https://appmodeloconsumoml15.streamlit.app",
     },
+        {
+        "titulo": "Introducción al procesamiento en paralelo",
+        "categoria": "Fundamentos",
+        "descripcion": "Compara la ejecución secuencial con la ejecución en paralelo y mide cuánto tiempo se gana.",
+        "imagen": "llovera.jpg",
+        "url": "https://introduccional-procesamientoen-paralelo.streamlit.app",
+    },
 ]
 
 BASE = Path(__file__).parent
