@@ -130,7 +130,7 @@ PROYECTOS = [
 ]
 
 BASE = Path(__file__).parent
-NUMEROS = {3: "Tres", 4: "Cuatro", 5: "Cinco", 6: "Seis", 7: "Siete", 8: "Ocho", 9: "Nueve", 10: "Diez", 11: "Once", 12: "Doce"}
+NUMEROS = {3: "Tres", 4: "Cuatro", 5: "Cinco", 6: "Seis", 7: "Siete", 8: "Ocho", 9: "Nueve", 10: "Diez", 11: "Once", 12: "Doce", 13: "Trece", 14: "Catorce", 15: "Quince", 16: "Dieciséis"}
 
 st.set_page_config(page_title=f"Portafolio, {NOMBRE}", page_icon="💻", layout="wide")
 
