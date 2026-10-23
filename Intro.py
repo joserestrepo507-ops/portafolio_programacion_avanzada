@@ -117,14 +117,14 @@ PROYECTOS = [
         "titulo": "Modelo de consumo energético",
         "categoria": "Fundamentos",
         "descripcion": "Predice el consumo a partir de variables de entrada con un modelo de aprendizaje automático.",
-        "imagen": "llovera.jpg",
+        "imagen": "consumo_energetico.webp",
         "url": "https://appmodeloconsumoml15.streamlit.app",
     },
         {
         "titulo": "Introducción al procesamiento en paralelo",
         "categoria": "Fundamentos",
         "descripcion": "Compara la ejecución secuencial con la ejecución en paralelo y mide cuánto tiempo se gana.",
-        "imagen": "llovera.jpg",
+        "imagen": "proce_paralelo.png",
         "url": "https://introduccional-procesamientoen-paralelo.streamlit.app",
     },
 ]
